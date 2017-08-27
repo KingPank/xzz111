@@ -12,13 +12,13 @@
 int main()
 {
 
-		//USART1_Configuration();
+//		//USART1_Configuration();
 
-		USART2_Configuration();
+//		USART2_Configuration();
 
-		//USART3_Configuration();
+//		//USART3_Configuration();
 
-		IIC1_Confugration();
+//		IIC1_Confugration();
 
 		MPU6050_Configuation();
 
